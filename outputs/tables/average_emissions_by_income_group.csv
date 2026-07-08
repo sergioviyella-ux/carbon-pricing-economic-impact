@@ -1,0 +1,137 @@
+year,income_group,mean_emissions
+1990,High Income,
+1990,Low Income,
+1990,Lower Middle Income,
+1990,Upper Middle Income,
+1991,High Income,
+1991,Low Income,
+1991,Lower Middle Income,
+1991,Upper Middle Income,
+1992,High Income,
+1992,Low Income,
+1992,Lower Middle Income,
+1992,Upper Middle Income,
+1993,High Income,
+1993,Low Income,
+1993,Lower Middle Income,
+1993,Upper Middle Income,
+1994,High Income,
+1994,Low Income,
+1994,Lower Middle Income,
+1994,Upper Middle Income,
+1995,High Income,
+1995,Low Income,
+1995,Lower Middle Income,
+1995,Upper Middle Income,
+1996,High Income,
+1996,Low Income,
+1996,Lower Middle Income,
+1996,Upper Middle Income,
+1997,High Income,
+1997,Low Income,
+1997,Lower Middle Income,
+1997,Upper Middle Income,
+1998,High Income,
+1998,Low Income,
+1998,Lower Middle Income,
+1998,Upper Middle Income,
+1999,High Income,
+1999,Low Income,
+1999,Lower Middle Income,
+1999,Upper Middle Income,
+2000,High Income,4.459630000000001
+2000,Low Income,307.34149259259254
+2000,Lower Middle Income,158.79628888888888
+2000,Upper Middle Income,280.95697894736844
+2001,High Income,4.710135
+2001,Low Income,325.825408
+2001,Lower Middle Income,148.24725
+2001,Upper Middle Income,283.871
+2002,High Income,24.05463
+2002,Low Income,346.569864
+2002,Lower Middle Income,150.08711111111108
+2002,Upper Middle Income,296.8673421052631
+2003,High Income,34.258608333333335
+2003,Low Income,400.01930416666664
+2003,Lower Middle Income,154.6725625
+2003,Upper Middle Income,306.4074
+2004,High Income,101.772379
+2004,Low Income,460.7867571428572
+2004,Lower Middle Income,179.99849
+2004,Upper Middle Income,315.39473125
+2005,High Income,100.614729
+2005,Low Income,503.85213529411766
+2005,Lower Middle Income,252.8365
+2005,Upper Middle Income,321.69418235294114
+2006,High Income,131.52300142857143
+2006,Low Income,615.2014642857145
+2006,Lower Middle Income,257.0436125
+2006,Upper Middle Income,357.6363692307692
+2007,High Income,201.0926327777778
+2007,Low Income,767.6050333333334
+2007,Lower Middle Income,248.0075235294118
+2007,Upper Middle Income,287.52893
+2008,High Income,206.26494699999998
+2008,Low Income,885.9147363636363
+2008,Lower Middle Income,286.16122666666666
+2008,Upper Middle Income,215.58084545454543
+2009,High Income,230.28239235294117
+2009,Low Income,936.6312090909091
+2009,Lower Middle Income,219.50421052631577
+2009,Upper Middle Income,214.00513
+2010,High Income,225.77261736842104
+2010,Low Income,1112.8041899999998
+2010,Lower Middle Income,220.445595
+2010,Upper Middle Income,248.5033625
+2011,High Income,236.89733900000002
+2011,Low Income,394.6674
+2011,Lower Middle Income,623.0887826086956
+2011,Upper Middle Income,183.0164125
+2012,High Income,240.00808149999997
+2012,Low Income,424.9086166666666
+2012,Lower Middle Income,613.4650952380953
+2012,Upper Middle Income,327.92804
+2013,High Income,231.41864952380953
+2013,Low Income,432.02484999999996
+2013,Lower Middle Income,654.703405
+2013,Upper Middle Income,310.50034
+2014,High Income,169.604678
+2014,Low Income,458.16471666666666
+2014,Lower Middle Income,709.6568904761904
+2014,Upper Middle Income,263.19352
+2015,High Income,169.75517611111113
+2015,Low Income,481.3134166666666
+2015,Lower Middle Income,641.4620043478261
+2015,Upper Middle Income,300.40703
+2016,High Income,161.71797578947368
+2016,Low Income,501.6112499999999
+2016,Lower Middle Income,636.3564130434783
+2016,Upper Middle Income,327.8196111111111
+2017,High Income,160.0595036842105
+2017,Low Income,517.2318
+2017,Lower Middle Income,744.48593
+2017,Upper Middle Income,246.510075
+2018,High Income,166.6448975
+2018,Low Income,660.6195
+2018,Lower Middle Income,869.7354352941176
+2018,Upper Middle Income,204.76510000000002
+2019,High Income,207.75950571428572
+2019,Low Income,677.67556
+2019,Lower Middle Income,847.7408833333334
+2019,Upper Middle Income,138.97452307692308
+2020,High Income,186.13176473684211
+2020,Low Income,628.2283
+2020,Lower Middle Income,760.0646449999999
+2020,Upper Middle Income,162.91160769230768
+2021,High Income,197.78850857142857
+2021,Low Income,683.40252
+2021,Lower Middle Income,931.5963588235294
+2021,Upper Middle Income,135.29630714285716
+2022,High Income,151.03141599999998
+2022,Low Income,738.41404
+2022,Lower Middle Income,931.8524333333334
+2022,Upper Middle Income,283.5657117647059
+2023,High Income,151.9834105263158
+2023,Low Income,784.07366
+2023,Lower Middle Income,1087.5654333333332
+2023,Upper Middle Income,172.67335882352944

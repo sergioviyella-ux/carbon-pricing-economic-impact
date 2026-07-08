@@ -1,0 +1,45 @@
+{
+  "chart": {
+    "title": "Per capita CO₂ emissions",
+    "subtitle": "Carbon dioxide (CO₂) emissions from [fossil fuels and industry](#dod:fossilemissions). Land-use change is not included.",
+    "citation": "Global Carbon Budget (2024); Population based on various sources (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/co-emissions-per-capita?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "United States",
+      "United Kingdom",
+      "European Union (27)",
+      "India",
+      "China",
+      "South Africa",
+      "Canada",
+      "Kenya"
+    ]
+  },
+  "columns": {
+    "Annual CO₂ emissions (per capita)": {
+      "titleShort": "Annual CO₂ emissions (per capita)",
+      "titleLong": "Annual CO₂ emissions (per capita)",
+      "descriptionShort": "Annual total emissions of carbon dioxide (CO₂), excluding land-use change, measured in tonnes per person.",
+      "descriptionKey": [
+        "Per capita emissions represent the emissions of an average person in a country or region - they are calculated as the total emissions divided by population.",
+        "This data is based on territorial emissions, which do not account for emissions embedded in traded goods.",
+        "Emissions from international aviation and shipping are not included in any country or region's emissions. They are only included in the global total emissions."
+      ],
+      "descriptionProcessing": "- Data on global emissions has been converted from tonnes of carbon to tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\n- Emissions from the Kuwaiti oil fires in 1991 have been included as part of Kuwait's emissions for that year.\n- Country's share of the global population is calculated using our population dataset, based on [different sources](https://ourworldindata.org/population-sources).\n- Each country's share of global CO₂ emissions from flaring has been calculated using global CO₂ emissions from flaring provided in the Global Carbon Budget dataset.\n",
+      "shortUnit": "t/person",
+      "unit": "tonnes per person",
+      "timespan": "1750-2023",
+      "type": "Numeric",
+      "owidVariableId": 998404,
+      "shortName": "emissions_total_per_capita",
+      "lastUpdated": "2024-11-21",
+      "nextUpdate": "2025-11-21",
+      "citationShort": "Global Carbon Budget (2024); Population based on various sources (2024) – with major processing by Our World in Data",
+      "citationLong": "Global Carbon Budget (2024); Population based on various sources (2024) – with major processing by Our World in Data. “Annual CO₂ emissions (per capita) – GCB” [dataset]. Global Carbon Project, “Global Carbon Budget”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/998404.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-01-26",
+  "activeFilters": {}
+}
